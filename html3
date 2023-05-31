@@ -1,0 +1,27 @@
+<html>
+<body> 
+<main><header>
+   <h1> Музично-театральне мистецтво</h1>
+   <h2> @katelvii</h2>
+          </header>
+          <h1>Мюзикл</h1>
+
+
+<h1>А також одні з найкащих фільмів-мюзиклів!</h1>
+ <section class="posts">
+                <article class="post">
+         В основу сценарію покладена класична п'єса Вільяма Шекспіра «Ромео і Джульєта», тільки перенесена в Нью-Йорк XX ст., у часи панування банд у кварталі Вест Сайд. По один бік опиняється Марія, пуерториканка-емігрантка, по інший — Тоні, який входить до банди білих італійців. Впевнена, це справді надзичайно!<iframe width="300" height="170" src="https://www.youtube.com/embed/u2rPbq6Qdtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </article>
+                <article class="post">
+               Дія відбувається в місті Зальцбург 1938-го року. Марія, молода жінка, яка має намір стати черницею, через свій характер спрямована з монастиря до будинку овдовілого морського капітана Георга Людвіга фон Траппа як гувернантка для його сімох дітей. Спочатку діти поставилися до неї не цілком прихильно і намагалися вередувати. Однак, після того, як Марія долучила їх до співу, всім серцем полюбили її.<iframe width="330" height="170" src="https://www.youtube.com/embed/kvz9HeN33mQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </article>
+                <article class="post">
+                     Родині Бенксів необхідна нянька для їхніх маленьких дітей. Раптово, немов за помахом чарівної палички, з'являється слушна кандидатура. Дівчина просто ідеальна доглядальниця — вона розумна, добра і все робить найкращим чином. Але таке може статися тільки в казці, і в якомусь сенсі так воно і є, адже над дітьми взяла опіку справжня чарівниця.<iframe width="300" height="170" src="https://www.youtube.com/embed/FEh3U1s10qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </article>
+            </section>
+
+
+
+</main>
+</body>
+</html>
